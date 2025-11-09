@@ -1,2 +1,2 @@
 # Krishna-Juice-Juice-QR-Code
-Miracle Grape Juice RS : 40
+Miracle Grape Juice Rs : 40
